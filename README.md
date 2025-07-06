@@ -1,8 +1,8 @@
 # DSA-PROJECT-ON-SQL
 
-## project overview
+## project overview 
 
-## Data Training Process
+## Data Cleaning Process
 
 ## Project Analysis
 
