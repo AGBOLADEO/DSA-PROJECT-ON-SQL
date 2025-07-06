@@ -1,6 +1,9 @@
 # DSA-PROJECT-ON-SQL
 
 ## project overview 
+Sequence Query Language is a programming language for storing and processing information in a relational database… I used the different SQL  commands in executing my queries. I learnt how to import flat file in my database, I gathered details and operating on analytical queries.
+The Language can be found in operating systems, laptops, servers and it helps users create multiple views of the database structure and the database for various individual..
+
 
 ## Data Cleaning Process
 
