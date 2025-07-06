@@ -6,6 +6,9 @@ The Language can be found in operating systems, laptops, servers and it helps us
 
 
 ## Data Cleaning Process
+I used  SQL to identify zero or null values, duplicates, inconsistencies and outliers. Solved null values using SQL Update statement. I removed rows with zero values and impute them with appropriate values
+
+### Tool Used: SQL
 
 ## Project Analysis
 
